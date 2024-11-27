@@ -1,2 +1,1 @@
-GUI PID Motor Encoder 
-Arduino PID Motor Encoder
+GUI PID Motor Encoder & Arduino PID Motor Encoder
