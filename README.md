@@ -1,2 +1,2 @@
-# code-pid-motor-encoder
-# code-pid-motor-encoder
+GUI PID Motor Encoder 
+Arduino PID Motor Encoder
